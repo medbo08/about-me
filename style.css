@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width:200px;
+}
+
+body {
+  text-align:  match-parent;
+  font-family: 'Times New Roman';
+  background: #350000;
+  color: #C57B12;
+}
+
+ li {
+   list-style-type: circle;
+ }
+
+ li li {
+   list-style-type: square;
+ }
